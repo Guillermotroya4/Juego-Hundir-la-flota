@@ -1,5 +1,5 @@
 /***
- * En este proyecto he hecho el mitico juego de hundir la flota. En este caso lo único que hara es la colocación de los barcos aleatoriamente
+ * En este proyecto he hecho el mitico juego de hundir la flota. En este caso lo único que hara es la colocación de los barcos aleatoriamente. (Me falta poner los 1 pero no se como hacerlo y no me a dado tiempo.)
  * @author Guillermo Troya Albarrán
  */
 import java.util.Random;
